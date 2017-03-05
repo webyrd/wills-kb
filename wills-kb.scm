@@ -49,3 +49,17 @@ https://dash.harvard.edu/bitstream/handle/1/11879687/3865717.pdf?sequence=1
 
 Fly longevity studies
 https://en.wikipedia.org/wiki/Michael_R._Rose
+
+
+;; ------------------------------
+
+Home-Built STM
+https://dberard.com/home-built-stm/
+
+;; ------------------------------
+
+
+Executable Relational Specifications of Polymorphic Type Systems using Prolog
+http://pdxscholar.library.pdx.edu/compsci_fac/166/
+http://slides.com/kyagrd/tiperdundee#/
+https://github.com/kyagrd/HMtyInferUsingProlog
