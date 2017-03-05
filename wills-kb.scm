@@ -44,6 +44,12 @@ HyperCard
 
 frame
 
+McCarthy -- logic
+
+Sketchpad
+
+ThingLab, Wallingford
+
 ;; -------------------------------------
 
 CRISPR/Cas9 and mitochondrial gene replacement therapy: promising techniques and ethical considerations
