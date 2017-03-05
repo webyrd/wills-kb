@@ -74,6 +74,11 @@ https://en.wikipedia.org/wiki/Michael_R._Rose
 Molecular recordings by directed CRISPR spacer acquisition
 http://science.sciencemag.org/content/early/2016/06/08/science.aaf1175
 
+
+CRISPR elements in Yersinia pestis acquire new repeats by preferential uptake of bacteriophage DNA, and provide additional tools for evolutionary studies.
+https://www.ncbi.nlm.nih.gov/pubmed/15758212
+http://www.microbiologyresearch.org/docserver/fulltext/micro/151/3/653.pdf?expires=1488703201&id=id&accname=guest&checksum=6CB4B0F84000B2A10B4965D49F881C6C
+
 ;; ------------------------------
 
 20n: Computational Synthetic Biology
