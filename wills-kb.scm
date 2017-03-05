@@ -22,6 +22,20 @@
 
 ;; auto-notification of new articles on, for example, CRISPR + mitochrondria
 
+;; -------------------------------------
+
+As We May Think
+
+NLS
+
+Project Xanadu
+
+New Media Reader
+
+frame
+
+;; -------------------------------------
+
 CRISPR/Cas9 and mitochondrial gene replacement therapy: promising techniques and ethical considerations
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5043096/
 
