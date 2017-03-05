@@ -76,6 +76,15 @@ http://science.sciencemag.org/content/early/2016/06/08/science.aaf1175
 
 ;; ------------------------------
 
+20n: Computational Synthetic Biology
+http://20n.com/
+
+Program synthesis for executable biology
+http://koksal.org/
+http://homes.cs.washington.edu/~bodik/
+
+;; ------------------------------
+
 Home-Built STM
 https://dberard.com/home-built-stm/
 
