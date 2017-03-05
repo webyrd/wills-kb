@@ -28,6 +28,8 @@
 
 ;; add open problems
 
+;; sketching
+
 ;; -------------------------------------
 
 As We May Think
