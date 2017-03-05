@@ -51,6 +51,9 @@ Fly longevity studies
 https://en.wikipedia.org/wiki/Michael_R._Rose
 
 
+Molecular recordings by directed CRISPR spacer acquisition
+http://science.sciencemag.org/content/early/2016/06/08/science.aaf1175
+
 ;; ------------------------------
 
 Home-Built STM
