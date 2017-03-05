@@ -32,6 +32,10 @@ Project Xanadu
 
 New Media Reader
 
+Smalltalk
+
+HyperCard
+
 frame
 
 ;; -------------------------------------
