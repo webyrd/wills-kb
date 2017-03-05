@@ -97,6 +97,16 @@ http://homes.cs.washington.edu/~bodik/
 Home-Built STM
 https://dberard.com/home-built-stm/
 
+ME 597: Fundamentals of Atomic Force Microscopy
+ME 597 Lecture 1: Review of Quantum Tunneling/Introduction to STM
+https://www.youtube.com/watch?v=8FEaW3lH4TU
+
+'easyScan' SCANNING TUNNELING MICROSCOPE
+http://www.physics.purdue.edu/~durbin/Reports/STM/Cetin.pdf
+
+Observing graphite atom structure by Scanning Tunneling Microscopy
+http://www.physics.purdue.edu/~durbin/Reports/STM/Chuu.pdf
+
 ;; ------------------------------
 
 
