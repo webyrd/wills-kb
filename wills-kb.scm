@@ -91,6 +91,14 @@ CRISPR elements in Yersinia pestis acquire new repeats by preferential uptake of
 https://www.ncbi.nlm.nih.gov/pubmed/15758212
 http://www.microbiologyresearch.org/docserver/fulltext/micro/151/3/653.pdf?expires=1488703201&id=id&accname=guest&checksum=6CB4B0F84000B2A10B4965D49F881C6C
 
+
+Gene Therapy in a Patient with Sickle Cell Disease
+http://www.nejm.org/doi/10.1056/NEJMoa1609677
+
+
+Selective removal of deletion-bearing mitochondrial DNA in heteroplasmic Drosophila
+http://authors.library.caltech.edu/72178/
+
 ;; ------------------------------
 
 20n: Computational Synthetic Biology
